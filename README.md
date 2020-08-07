@@ -56,7 +56,7 @@ Vous dressez rapidement une liste de toutes les fonctionnalités nécessaires et
 - Cette page doit afficher un récapitulatif des produits ajoutés au panier.  - (1pt)
 - Le total du panier est affiché en euros, HT et TTC (TTC = + 20%).  - (1pt)
 - Il est possible de payer à l'aide d'un bouton "Régler mes achats".  - (1pt)
-- Au click sur le bouton "ajouter au panier" le prix TTC est ajouté au CA (chiffre d'affaires) et chaque unité de chaque produit est enlevée des stocks. - (2pts)
+- Au click sur le bouton "Régler mes achats" le prix TTC est ajouté au CA (chiffre d'affaires) et chaque unité de chaque produit est enlevée des stocks. - (2pts)
 
 
 ### Création d'une page "Administration" (4pts)
