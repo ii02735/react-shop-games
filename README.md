@@ -74,6 +74,7 @@ Vous dressez rapidement une liste de toutes les fonctionnalités nécessaires et
 
 * Utilisation de Redux et de react-router **obligatoire**.
 * Dans index.js, vous ne devez pas changer le &lt;Router&gt; de place.
+* Vous ne devez pas utiliser de second Router au sein de l'application.
 * Dans index.js, vous ne devez pas changer le &lt;Provider&gt; de place.
 * Vous **devez** absolument **respecter** les formats de routes suivants: 
     - La route pour le "Catalogue" est: **/catalog**
