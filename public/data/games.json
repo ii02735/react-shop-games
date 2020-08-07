@@ -1,0 +1,332 @@
+[
+    {
+        "type": "rpg",
+        "platform": "switch",
+        "title": "Zelda breath of the wild",
+        "price": 11.99,
+        "img": "/assets/covers/zelda-breath-of-the-wild-switch.jpg",
+        "id": 1,
+        "stock": 5,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sunt rerum, veritatis deleniti eius excepturi suscipit quas voluptatum tenetur maxime similique error assumenda cum eos numquam magnam minus incidunt nam."
+    },
+    {
+        "type": "rpg",
+        "platform": "snes",
+        "title": "Chrono Trigger",
+        "price": 39.99,
+        "img": "/assets/covers/chrono-trigger-snes.jpg",
+        "id": 2,
+        "stock": 4,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sunt rerum, veritatis deleniti eius excepturi suscipit quas voluptatum tenetur maxime similique error assumenda cum eos numquam magnam minus incidunt nam."
+    },
+    {
+        "type": "rpg",
+        "platform": "nes",
+        "title": "Final Fantasy",
+        "price": 22.99,
+        "img": "/assets/covers/final-fantasy-nes.jpg",
+        "id": 3,
+        "stock": 5,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sunt rerum, veritatis deleniti eius excepturi suscipit quas voluptatum tenetur maxime similique error assumenda cum eos numquam magnam minus incidunt nam."
+    },
+    {
+        "type": "rpg",
+        "platform": "nes",
+        "title": "Final Fantasy II",
+        "price": 20.99,
+        "img": "/assets/covers/final-fantasy-ii-nes.jpg",
+        "id": 4,
+        "stock": 3,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sunt rerum, veritatis deleniti eius excepturi suscipit quas voluptatum tenetur maxime similique error assumenda cum eos numquam magnam minus incidunt nam."
+    },
+    {
+        "type": "rpg",
+        "platform": "nes",
+        "title": "Final Fantasy III",
+        "price": 63.99,
+        "img": "/assets/covers/final-fantasy-iii-nes.jpg",
+        "id": 5,
+        "stock": 3,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sunt rerum, veritatis deleniti eius excepturi suscipit quas voluptatum tenetur maxime similique error assumenda cum eos numquam magnam minus incidunt nam."
+    },
+    {
+        "type": "rpg",
+        "platform": "snes",
+        "title": "Final Fantasy IV",
+        "price": 52.99,
+        "img": "/assets/covers/final-fantasy-iv-snes.jpg",
+        "id": 6,
+        "stock": 8,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sunt rerum, veritatis deleniti eius excepturi suscipit quas voluptatum tenetur maxime similique error assumenda cum eos numquam magnam minus incidunt nam."
+    },
+    {
+        "type": "rpg",
+        "platform": "nintendo ds",
+        "title": "Final Fantasy iv",
+        "price": 34.99,
+        "img": "/assets/covers/final-fantasy-iv-nintendo-ds.jpg",
+        "id": 7,
+        "stock": 2,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sunt rerum, veritatis deleniti eius excepturi suscipit quas voluptatum tenetur maxime similique error assumenda cum eos numquam magnam minus incidunt nam."
+    },
+    {
+        "type": "rpg",
+        "platform": "snes",
+        "title": "Final Fantasy V",
+        "price": 32.99,
+        "img": "/assets/covers/final-fantasy-v-snes.jpg",
+        "id": 8,
+        "stock": 5,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sunt rerum, veritatis deleniti eius excepturi suscipit quas voluptatum tenetur maxime similique error assumenda cum eos numquam magnam minus incidunt nam."
+    },
+    {
+        "type": "rpg",
+        "platform": "snes",
+        "title": "Final Fantasy VI",
+        "price": 19.99,
+        "img": "/assets/covers/final-fantasy-vi-snes.jpg",
+        "id": 9,
+        "stock": 8,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sunt rerum, veritatis deleniti eius excepturi suscipit quas voluptatum tenetur maxime similique error assumenda cum eos numquam magnam minus incidunt nam."
+    },
+    {
+        "type": "rpg",
+        "platform": "ps1",
+        "title": "Final Fantasy VII",
+        "price": 38.99,
+        "img": "/assets/covers/final-fantasy-vii-ps1.jpg",
+        "id": 10,
+        "stock": 7,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sunt rerum, veritatis deleniti eius excepturi suscipit quas voluptatum tenetur maxime similique error assumenda cum eos numquam magnam minus incidunt nam."
+    },
+    {
+        "type": "rpg",
+        "platform": "ps1",
+        "title": "Final Fantasy VIII",
+        "price": 37.99,
+        "img": "/assets/covers/final-fantasy-viii-ps1.jpg",
+        "id": 11,
+        "stock": 9,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sunt rerum, veritatis deleniti eius excepturi suscipit quas voluptatum tenetur maxime similique error assumenda cum eos numquam magnam minus incidunt nam."
+    },
+    {
+        "type": "rpg",
+        "platform": "ps1",
+        "title": "Final Fantasy IX",
+        "price": 58.99,
+        "img": "/assets/covers/final-fantasy-ix-ps1.jpg",
+        "id": 12,
+        "stock": 9,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sunt rerum, veritatis deleniti eius excepturi suscipit quas voluptatum tenetur maxime similique error assumenda cum eos numquam magnam minus incidunt nam."
+    },
+    {
+        "type": "rpg",
+        "platform": "ps2",
+        "title": "Final Fantasy X",
+        "price": 44.99,
+        "img": "/assets/covers/final-fantasy-x-ps2.jpg",
+        "id": 13,
+        "stock": 9,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sunt rerum, veritatis deleniti eius excepturi suscipit quas voluptatum tenetur maxime similique error assumenda cum eos numquam magnam minus incidunt nam."
+    },
+    {
+        "type": "rpg",
+        "platform": "ps2",
+        "title": "Final Fantasy X-2",
+        "price": 54.99,
+        "img": "/assets/covers/final-fantasy-x-2-ps2.jpg",
+        "id": 14,
+        "stock": 10,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sunt rerum, veritatis deleniti eius excepturi suscipit quas voluptatum tenetur maxime similique error assumenda cum eos numquam magnam minus incidunt nam."
+    },
+    {
+        "type": "rpg",
+        "platform": "ps2",
+        "title": "Final Fantasy XI",
+        "price": 59.99,
+        "img": "/assets/covers/final-fantasy-xi-ps2.jpg",
+        "id": 15,
+        "stock": 7,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sunt rerum, veritatis deleniti eius excepturi suscipit quas voluptatum tenetur maxime similique error assumenda cum eos numquam magnam minus incidunt nam."
+    },
+    {
+        "type": "rpg",
+        "platform": "ps2",
+        "title": "Final Fantasy XII",
+        "price": 23.99,
+        "img": "/assets/covers/final-fantasy-xii-ps2.jpg",
+        "id": 16,
+        "stock": 0,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sunt rerum, veritatis deleniti eius excepturi suscipit quas voluptatum tenetur maxime similique error assumenda cum eos numquam magnam minus incidunt nam."
+    },
+    {
+        "type": "rpg",
+        "platform": "ps3",
+        "title": "Final Fantasy XIII",
+        "price": 19.99,
+        "img": "/assets/covers/final-fantasy-xiii-ps3.jpg",
+        "id": 17,
+        "stock": 6,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sunt rerum, veritatis deleniti eius excepturi suscipit quas voluptatum tenetur maxime similique error assumenda cum eos numquam magnam minus incidunt nam."
+    },
+    {
+        "type": "rpg",
+        "platform": "ps4",
+        "title": "Final Fantasy XIV",
+        "price": 61.99,
+        "img": "/assets/covers/final-fantasy-xiv-ps4.jpg",
+        "id": 18,
+        "stock": 3,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sunt rerum, veritatis deleniti eius excepturi suscipit quas voluptatum tenetur maxime similique error assumenda cum eos numquam magnam minus incidunt nam."
+    },
+    {
+        "type": "rpg",
+        "platform": "ps4",
+        "title": "Final Fantasy XV",
+        "price": 49.99,
+        "img": "/assets/covers/final-fantasy-xv-ps4.jpg",
+        "id": 19,
+        "stock": 1,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sunt rerum, veritatis deleniti eius excepturi suscipit quas voluptatum tenetur maxime similique error assumenda cum eos numquam magnam minus incidunt nam."
+    },
+    {
+        "type": "action-adventure",
+        "platform": "ps4",
+        "title": "Uncharted 4",
+        "price": 64.99,
+        "img": "/assets/covers/uncharted-4-ps4.jpg",
+        "id": 20,
+        "stock": 0,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sunt rerum, veritatis deleniti eius excepturi suscipit quas voluptatum tenetur maxime similique error assumenda cum eos numquam magnam minus incidunt nam."
+    },
+    {
+        "type": "action-adventure",
+        "platform": "ps3",
+        "title": "Uncharted 3",
+        "price": 65.99,
+        "img": "/assets/covers/uncharted-3-ps3.jpg",
+        "id": 21,
+        "stock": 8,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sunt rerum, veritatis deleniti eius excepturi suscipit quas voluptatum tenetur maxime similique error assumenda cum eos numquam magnam minus incidunt nam."
+    },
+    {
+        "type": "action-adventure",
+        "platform": "ps3",
+        "title": "Uncharted 2",
+        "price": 43.99,
+        "img": "/assets/covers/uncharted-2-ps3.jpg",
+        "id": 22,
+        "stock": 5,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sunt rerum, veritatis deleniti eius excepturi suscipit quas voluptatum tenetur maxime similique error assumenda cum eos numquam magnam minus incidunt nam."
+    },
+    {
+        "type": "action-adventure",
+        "platform": "ps3",
+        "title": "Uncharted",
+        "price": 41.99,
+        "img": "/assets/covers/uncharted-ps3.jpg",
+        "id": 23,
+        "stock": 4,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sunt rerum, veritatis deleniti eius excepturi suscipit quas voluptatum tenetur maxime similique error assumenda cum eos numquam magnam minus incidunt nam."
+    },
+    {
+        "type": "survival-horror",
+        "platform": "ps3",
+        "title": "The last of us",
+        "price": 11.99,
+        "img": "/assets/covers/the-last-of-us-ps3.jpg",
+        "id": 24,
+        "stock": 1,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sunt rerum, veritatis deleniti eius excepturi suscipit quas voluptatum tenetur maxime similique error assumenda cum eos numquam magnam minus incidunt nam."
+    },
+    {
+        "type": "survival-horror",
+        "platform": "ps4",
+        "title": "The last of us remastered",
+        "price": 46.99,
+        "img": "/assets/covers/the-last-of-us-remastered-ps4.jpg",
+        "id": 25,
+        "stock": 10,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sunt rerum, veritatis deleniti eius excepturi suscipit quas voluptatum tenetur maxime similique error assumenda cum eos numquam magnam minus incidunt nam."
+    },
+    {
+        "type": "survival-horror",
+        "platform": "ps4",
+        "title": "The last of us part II",
+        "price": 33.99,
+        "img": "/assets/covers/the-last-of-us-part-ii-ps4.jpg",
+        "id": 26,
+        "stock": 2,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sunt rerum, veritatis deleniti eius excepturi suscipit quas voluptatum tenetur maxime similique error assumenda cum eos numquam magnam minus incidunt nam."
+    },
+    {
+        "type": "fps",
+        "platform": "ps4",
+        "title": "Overwatch",
+        "price": 51.99,
+        "img": "/assets/covers/overwatch-ps4.jpg",
+        "id": 27,
+        "stock": 0,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sunt rerum, veritatis deleniti eius excepturi suscipit quas voluptatum tenetur maxime similique error assumenda cum eos numquam magnam minus incidunt nam."
+    },
+    {
+        "type": "fps",
+        "platform": "ps4",
+        "title": "Valorant",
+        "price": 37.99,
+        "img": "/assets/covers/valorant-ps4.jpg",
+        "id": 28,
+        "stock": 10,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sunt rerum, veritatis deleniti eius excepturi suscipit quas voluptatum tenetur maxime similique error assumenda cum eos numquam magnam minus incidunt nam."
+    },
+    {
+        "type": "fps",
+        "platform": "ps4",
+        "title": "Counter Strike",
+        "price": 11.99,
+        "img": "/assets/covers/counter-strike-ps4.jpg",
+        "id": 29,
+        "stock": 2,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sunt rerum, veritatis deleniti eius excepturi suscipit quas voluptatum tenetur maxime similique error assumenda cum eos numquam magnam minus incidunt nam."
+    },
+    {
+        "type": "action-adventure",
+        "platform": "ps2",
+        "title": "God of war",
+        "price": 49.99,
+        "img": "/assets/covers/god-of-war-ps2.jpg",
+        "id": 30,
+        "stock": 7,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sunt rerum, veritatis deleniti eius excepturi suscipit quas voluptatum tenetur maxime similique error assumenda cum eos numquam magnam minus incidunt nam."
+    },
+    {
+        "type": "action-adventure",
+        "platform": "ps3",
+        "title": "God of war 2",
+        "price": 58.99,
+        "img": "/assets/covers/god-of-war-2-ps3.jpg",
+        "id": 31,
+        "stock": 4,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sunt rerum, veritatis deleniti eius excepturi suscipit quas voluptatum tenetur maxime similique error assumenda cum eos numquam magnam minus incidunt nam."
+    },
+    {
+        "type": "action-adventure",
+        "platform": "ps3",
+        "title": "God of war 3",
+        "price": 58.99,
+        "img": "/assets/covers/god-of-war-3-ps3.jpg",
+        "id": 32,
+        "stock": 4,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sunt rerum, veritatis deleniti eius excepturi suscipit quas voluptatum tenetur maxime similique error assumenda cum eos numquam magnam minus incidunt nam."
+    },
+    {
+        "type": "action-adventure",
+        "platform": "ps3",
+        "title": "God of war 4",
+        "price": 51.99,
+        "img": "/assets/covers/god-of-war-4-ps3.jpg",
+        "id": 33,
+        "stock": 5,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sunt rerum, veritatis deleniti eius excepturi suscipit quas voluptatum tenetur maxime similique error assumenda cum eos numquam magnam minus incidunt nam."
+    }
+]
